@@ -1,2 +1,2 @@
 console.log("Hello JavaScript");
-console.log('i love js');
+console.log('I love js');
